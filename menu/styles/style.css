@@ -1,4 +1,4 @@
-body {
+        body {
             font-family: Georgia, serif;
             font-size: small;
             line-height: 1.75em;
@@ -34,3 +34,9 @@ body {
             color: purple;
             text-shadow: .1em .1em .2em lightslategray;
         }
+        
+        #black {color: black;}
+
+        #orange {color: #f58e72;}
+
+        .warning {color:#f58e72;}
